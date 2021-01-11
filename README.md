@@ -1,3 +1,11 @@
+<h3>
+  Frontend Developer & Electronic Engineer.<br/>  
+  <br/>
+  Entrepreneur, maker and technology lover.<br/>
+  <br/>
+  Always with a project in mind to keep learning.
+</h3>
+
 ## One of my passions is traveling ✈
 
 - ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) Visited
