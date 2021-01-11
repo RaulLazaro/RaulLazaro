@@ -3,7 +3,9 @@
 - ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) Visited
 - ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) Lived
 
-![map](map.svg)
+<p align="center">
+  <img alt="map" src="map.svg" width="600">
+</p>
 
 <!--
 **RaulLazaro/RaulLazaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
