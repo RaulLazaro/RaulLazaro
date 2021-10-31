@@ -1,0 +1,19 @@
+{
+  "name": "raullazaro",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaulLazaro/RaulLazaro.git"
+  },
+  "devDependencies": {
+    "marked": "^3.0.7",
+    "typescript": "^4.4.4",
+    "vite": "^2.6.13",
+    "vite-plugin-html": "^2.1.1"
+  }
+}
