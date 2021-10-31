@@ -1,11 +1,16 @@
 import { defineConfig } from "vite";
-import html from 'vite-plugin-html'
+import html from "vite-plugin-html";
+import WindiCSS from "vite-plugin-windicss";
+import ViteRestart from 'vite-plugin-restart'
 
-const path = require('path')
-const fs = require("fs");
-const marked = require("marked");
+import path from "path";
+import fs from "fs";
+import marked from "marked";
 
-const markdown = fs.readFileSync(path.resolve(__dirname, './README.md'), 'utf8')
+const markdown = fs.readFileSync(
+    path.resolve(__dirname, "./README.md"),
+    "utf8"
+);
 
 export default defineConfig({
     plugins: [
@@ -16,6 +21,10 @@ export default defineConfig({
                 },
             },
             minify: true,
+        }),
+        WindiCSS(),
+        ViteRestart({
+            restart: ['README.md']
         }),
     ],
 });
