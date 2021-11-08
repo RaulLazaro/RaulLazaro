@@ -14,14 +14,14 @@ export default defineConfig({
     html({
       inject: {
         data: {
-          markdown: marked(markdown),
-        },
+          markdown: marked(markdown)
+        }
       },
-      minify: true,
+      minify: true
     }),
     WindiCSS(),
     ViteRestart({
-      restart: ['README.md'],
-    }),
-  ],
+      restart: ['README.md']
+    })
+  ]
 })
