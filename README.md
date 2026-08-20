@@ -121,18 +121,4 @@ Infrastructure setup for personal AI agent tooling.
 
 ### 🌍 Travel
 
-One of my passions is travelling. Here you can see all the places I have been.
-
-<p align="center">
-  <img alt="travel map" src="map.svg" width="600">
-</p>
-
-<p align="center">
-  <sub>🔵 Visited &nbsp; 🔴 Lived</sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaulLazaro&show_icons=true&theme=transparent&hide_border=true" alt="stats" height="160">
-</p>
+One of my passions is travelling. Visit my [portfolio](https://raullazaro.com#travel) to see an interactive 3D globe with all the places I have been.
