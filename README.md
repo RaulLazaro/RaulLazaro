@@ -76,49 +76,6 @@ When I'm not coding, I'm probably printing something, brewing a new recipe or pl
 
 ---
 
-### 🚀 Featured projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### [raullazaro-web](https://github.com/RaulLazaro/raullazaro-web)
-My personal portfolio built with Astro 7, Tailwind CSS, and a custom WebGL shader. Features i18n (EN/ES), dark/light theme, and an interactive 3D travel globe.
-
-`Astro` `TypeScript` `WebGL` `Tailwind`
-
-</td>
-<td width="50%">
-
-#### [code-samples](https://github.com/RaulLazaro/code-samples)
-A collection of anonymized technical challenge solutions, showcasing different approaches to common development problems.
-
-`TypeScript` `React` `Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [dotfiles](https://github.com/RaulLazaro/dotfiles)
-Personal development environment configuration managed with dotbot.
-
-`Shell` `Git` `Neovim`
-
-</td>
-<td width="50%">
-
-#### [hermes-infra](https://github.com/RaulLazaro/hermes-infra)
-Infrastructure setup for personal AI agent tooling.
-
-`AWS` `Terraform` `Shell`
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🌍 Travel
 
 One of my passions is travelling. Visit my [portfolio](https://raullazaro.com#travel) to see an interactive 3D globe with all the places I have been.
